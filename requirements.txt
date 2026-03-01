@@ -1,2 +1,5 @@
 python-dotenv
 groq
+SpeechRecognition
+pyaudio
+pyttsx3
